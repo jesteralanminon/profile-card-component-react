@@ -12,6 +12,7 @@ function App() {
           likes={803000}
           photos={1400}
         />
+        
       </div>
     </div>
   );
