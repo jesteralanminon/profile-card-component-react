@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/profile-card-component-react/static/css/main.c0f01f46.css",
+    "main.js": "/profile-card-component-react/static/js/main.3b477167.js",
+    "static/media/bg-pattern-card.svg": "/profile-card-component-react/static/media/bg-pattern-card.b61daebd3cb4b885d10f.svg",
+    "index.html": "/profile-card-component-react/index.html",
+    "static/media/bg-pattern-bottom.svg": "/profile-card-component-react/static/media/bg-pattern-bottom.a34eb319c02ad49587c3.svg",
+    "static/media/bg-pattern-top.svg": "/profile-card-component-react/static/media/bg-pattern-top.dae77b1febf9b29fe34e.svg",
+    "main.c0f01f46.css.map": "/profile-card-component-react/static/css/main.c0f01f46.css.map",
+    "main.3b477167.js.map": "/profile-card-component-react/static/js/main.3b477167.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f01f46.css",
+    "static/js/main.3b477167.js"
+  ]
+}
